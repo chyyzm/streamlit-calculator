@@ -1,4 +1,4 @@
-import tkinter as tk
+
 
 def on_click(char):
     if char == "=":
